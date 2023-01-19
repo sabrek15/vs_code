@@ -1,0 +1,15 @@
+{
+    "editor.fontFamily": "Source Code Pro",
+    "editor.wordWrap": "on",
+    "vim.useCtrlKeys": true,
+    "vim.useSystemClipboard": true,
+    "workbench.colorCustomizations": {
+        "terminal.ansiGreen": "#000000",
+    },
+    "workbench.editor.showIcons": false,
+    "explorer.confirmDragAndDrop": false,
+    "workbench.colorTheme": "One Dark Pro Flat",
+    "files.autoSave": "afterDelay",
+    "workbench.preferredHighContrastColorTheme": "Default Dark+",
+    "audioCues.lineHasError": "off"
+}
